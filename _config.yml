@@ -25,6 +25,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   independently from sites such as Wattpad or AO3, where I can essentially
   utilize my development skills in conjunction with my writing.
 
+# Copyright setting
+# You can use any html code, currently below placeholders are available:
+# * current year: {currentYear}
+# * author: {author} (Value is the same as site.author)
+# * copyright: (c) - ©
+# * copyleft: (cleft)
+# * sound recording copyright: (p) - ℗
+#
+# For example:
+#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
+#   "Copyright © 2017-2021 Foobar"
+#
+copyright: "Copyright © 2021-{currentYear} {author}"
+
 url: https://sir-w7.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /asoas # the subpath of your site, e.g. /blog
 
@@ -35,6 +49,8 @@ github_username: sir-w7
 # theme: "just-the-docs"
 # theme: jekyll-theme-yat
 remote_theme: "jeffreytse/jekyll-theme-yat"
+night_mode: "true"
+
 plugins:
   - jekyll-feed
 
@@ -57,5 +73,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Page default value
+defaults:
+  home:
+    heading: "A Song of a Swordsmaiden"
+    subheading: "An Epic Tale Presented by sir->w7"
+    banner: "assets/cool_banner.jpg"
 
 show_excerpts: true
