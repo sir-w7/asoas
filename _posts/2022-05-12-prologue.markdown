@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prologue"
-date: 2022-05-13
+date: 2022-05-12
 categories: A Flurry of Arrows
 ---
 Sixteen years before, a stream bore its path down the seas, down the coastal hills of Everlance, weeping against the waters beyond. Upon the pebbled shores lapped the waters below, and over yonder, a hill grew out of the grasses, and the barren fields laid away. The lands mourned of a coming winter, the leaves falling from above, and the empty watchtowers remained empty as they had for generations before. It was a lonely land, oft lacking the people that had flocked to the towns and cities. It was called, *The Valley of the Watchers*.
