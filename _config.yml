@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Woah, this blog is merely a place where I can serialize my work
   independently from sites such as Wattpad or AO3, where I can essentially
   utilize my development skills in conjunction with my writing.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/asoas" # the subpath of your site, e.g. /blog
 url: "https://sir-w7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: sir-w7
