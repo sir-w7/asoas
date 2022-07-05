@@ -49,7 +49,7 @@ github_username: sir-w7
 # theme: "just-the-docs"
 # theme: jekyll-theme-yat
 remote_theme: "jeffreytse/jekyll-theme-yat"
-night_mode: "true"
+night_mode: "on"
 
 plugins:
   - jekyll-feed
@@ -78,7 +78,7 @@ plugins:
 defaults:
   home:
     heading: "A Song of a Swordsmaiden"
-    subheading: "An Epic Tale Presented by sir->w7"
+    subheading: "Honour, chivalry, knighthood—futile. The realm is cruel and unforgiving, us commonfolk all forsaken. This is man’s ultimate rebellion against the world, an end to the injustice, a compromise for the gods."
     banner: "assets/cool_banner.jpg"
 
 show_excerpts: true
